@@ -6,4 +6,5 @@ This repository contains important PDF documents.
 
 You can view the profile PDF using the link below:
 
-[View Profile PDF](Profile)
+[View Profile PDF](Profile.pdf)
+
